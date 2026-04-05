@@ -7,6 +7,7 @@ API_URL="https://api.github.com"
 #testing mergeAPR5th
 #testing fetch and merge and pull
 # GitHub username and personal access token
+# testing new branch
 USERNAME=$username
 TOKEN=$token
 
