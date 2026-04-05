@@ -5,6 +5,7 @@ API_URL="https://api.github.com"
 
 #dhirajgitcommintpracticeAPR5thTEST2
 #testing mergeAPR5th
+#testing fetch and merge and pull
 # GitHub username and personal access token
 USERNAME=$username
 TOKEN=$token
